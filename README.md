@@ -1,2 +1,5 @@
-# streamingClassic
-Projeto Streaming_AtividadeFinal in git
+# cla
+streaming classic in git
+
+# Git hub
+Example from visual code
